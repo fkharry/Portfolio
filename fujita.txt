@@ -15,6 +15,10 @@ GitHub
 Gitlab
 GitBucket
 
+REDMINE
+ZIRA
+BACKLOG
+
 Adobe Photoshop
 Adobe Illustrator
 Adobe Premiere
